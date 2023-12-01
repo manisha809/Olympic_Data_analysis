@@ -13,6 +13,7 @@ df=preprocessor.preprocess(df,region_df)
 
 
 st.sidebar.title("Olympics Analysis")
+st.sidebar.image('https://www.procon.org/wp-content/uploads/olympic-rings-1-1024x680.jpeg')
 user_menu=st.sidebar.radio(
     'Select an Option',
     ('Medal Tally','Overall Analysis','Country-wise Analysis','Athelete-wise Analysis')
