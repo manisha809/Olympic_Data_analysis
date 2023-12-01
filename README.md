@@ -4,4 +4,4 @@
 comparative analytics for exploring historical medal tallies and country-wise performance.
 ● Deployed the application on the Streamlit server, ensuring seamless accessibility and a user-friendly interface for exploring Olympic data insights.
 
-Applicatio Demo : https://olympicdataanalysis-fbchknxmh74zpvvrr6wvmw.streamlit.app/
+Application Demo : https://olympicdataanalysis-fbchknxmh74zpvvrr6wvmw.streamlit.app/
